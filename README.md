@@ -1,8 +1,6 @@
-# dsl
+# Name Generator
 
-A new Flutter project.
+Combines words to create interesting names for hackers, startups, and usernames
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This is my implementation from the flutter documentation that can be found [here](https://flutter.io/get-started/codelab/).
